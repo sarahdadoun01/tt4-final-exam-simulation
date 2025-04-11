@@ -3565,11 +3565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/backend/src/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/TodoApi.csproj",
+      "projectPath": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/backend/src/TodoApi/TodoApi.csproj",
       "packagesPath": "/Users/sarahdadoun/.nuget/packages/",
-      "outputPath": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/obj/",
+      "outputPath": "/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/backend/src/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarahdadoun/.nuget/NuGet/NuGet.Config"
