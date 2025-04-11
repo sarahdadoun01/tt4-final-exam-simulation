@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.db
+*.log
+*.user
+*.vs
+.vscode/
+*.suo
+*.user
+*.cache
+*.pdb
+*.mdb
+*.exe
+*.dll
+
+# Mac system files
+.DS_Store
