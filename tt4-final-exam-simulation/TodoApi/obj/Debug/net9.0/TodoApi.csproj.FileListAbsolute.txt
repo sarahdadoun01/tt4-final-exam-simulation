@@ -156,3 +156,10 @@
 /Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/angular.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/package-lock.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/package.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/tsconfig.app.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/tsconfig.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/bin/Debug/net9.0/frontend/src/tsconfig.spec.json
+/Users/sarahdadoun/Desktop/COMPUTER_SCIENCE/Semester-9/Trends-And-Technology/FINAL-EXAM/simulator/tt4-final-exam-simulation/TodoApi/obj/Debug/net9.0/TodoApi.sourcelink.json
